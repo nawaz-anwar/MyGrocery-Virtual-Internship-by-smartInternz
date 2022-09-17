@@ -2,7 +2,9 @@ Virtual Internship - Android Application Development using Kotlin
 
 App Name: My Grocery
 
-Discriptions: Many times we forget to purchase things that we want to buy, after all, we can’t remember all the items, so with the help of this app, you can note down your grocery items that you are going to purchase, by doing this you can’t forget any items that you want to purchase
+Discriptions: Many times we forget to purchase things that we want to buy, after all, we can’t remember all the items, so with the help of this app, you can note down your grocery items that you are going to purchase, by doing this you can’t forget any items that you want to purchase.
+
+Video Demo: https://drive.google.com/file/d/1AbsUVMJIEeAL2PkVBdJZiZnyzhdUDTBg/view?usp=drivesdk
 
 Name: Nawaz Anwar
 
