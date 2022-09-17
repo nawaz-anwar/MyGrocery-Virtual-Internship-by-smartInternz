@@ -6,6 +6,8 @@ Discriptions: Many times we forget to purchase things that we want to buy, after
 
 Video Demo: https://drive.google.com/file/d/1AbsUVMJIEeAL2PkVBdJZiZnyzhdUDTBg/view?usp=drivesdk
 
+Project Report: https://drive.google.com/file/d/1Rwcr38_sJfK9d0fzwuGtJUegTpftGoZd/view?usp=sharing
+
 Name: Nawaz Anwar
 
 SBID: SB20220203052
