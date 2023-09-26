@@ -4,8 +4,6 @@ App Name: My Grocery
 
 Discriptions: Many times we forget to purchase things that we want to buy, after all, we can’t remember all the items, so with the help of this app, you can note down your grocery items that you are going to purchase, by doing this you can’t forget any items that you want to purchase.
 
-Video Demo: https://drive.google.com/file/d/1AyqUUMQqY7xmJ3uyIVZsKAhNfEnZjOQa/view?usp=sharing
-
 Project Report: https://drive.google.com/file/d/1Rwcr38_sJfK9d0fzwuGtJUegTpftGoZd/view?usp=sharing
 
 Name: Nawaz Anwar
